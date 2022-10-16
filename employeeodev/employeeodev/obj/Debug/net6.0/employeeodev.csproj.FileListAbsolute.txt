@@ -1,0 +1,15 @@
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\bin\Debug\net6.0\employeeodev.exe
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\bin\Debug\net6.0\employeeodev.deps.json
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\bin\Debug\net6.0\employeeodev.runtimeconfig.json
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\bin\Debug\net6.0\employeeodev.dll
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\bin\Debug\net6.0\employeeodev.pdb
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.csproj.AssemblyReference.cache
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.AssemblyInfoInputs.cache
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.AssemblyInfo.cs
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.csproj.CoreCompileInputs.cache
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.dll
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\refint\employeeodev.dll
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.pdb
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\employeeodev.genruntimeconfig.cache
+C:\Nesnetabanlıprogramlamaders\employeeodev\employeeodev\obj\Debug\net6.0\ref\employeeodev.dll
